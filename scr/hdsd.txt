@@ -1,0 +1,16 @@
+thay token bot báo kết quả 
+file bot kết quả 
+- webhook.php
+- set_webhook.php
+thay token bot tạo key
+file bot tạo key
+- webhooks.php
+- set_webhooks.php
+----------------------------------------------------------------------
+file check webhook
+https://api.telegram.org/bot<YOUR_BOT_TOKEN>/getWebhookInfo
+----------------------------------------------------------------------
+chạy set wehooks
+- https://tên miền/set_webhook.php
+-https://tên miền/set_webhooks.php
+chạy xog nhớ check nhé
